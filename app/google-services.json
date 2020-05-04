@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "927431692546",
+    "firebase_url": "https://neoaleatorio.firebaseio.com",
+    "project_id": "neoaleatorio",
+    "storage_bucket": "neoaleatorio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927431692546:android:b4bcd6e9d4284ac356f21b",
+        "android_client_info": {
+          "package_name": "dev.weslley.aleatorio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927431692546-m4dtdss773j4t3e08hep9fs4mt6d3n39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.weslley.aleatorio",
+            "certificate_hash": "d70a49e14b7ae00c843942f7ff403f051b5e359b"
+          }
+        },
+        {
+          "client_id": "927431692546-qbv2nmco18t3qj3dg98nfuoldlv0rsr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfMt6XsAd6VsIunZtUEsJdCuJLRW8LPOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927431692546-qbv2nmco18t3qj3dg98nfuoldlv0rsr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

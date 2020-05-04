@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aleatorio</string>
+    <string name="title_text">Aleatório</string>
+    <string name="label_code">Código</string>
+</resources>
